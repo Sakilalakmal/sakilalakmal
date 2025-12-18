@@ -14,42 +14,6 @@ I am a Full Stack Developer with a strong passion for **Backend Systems** and **
     <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,react,nextjs,flutter,tailwind,nodejs,express,postgres,mongodb,prisma,docker,aws,jenkins,githubactions,figma,vscode,vite,postman,pnpm,linux,github" />
   </a>
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 Lak-LMS-System</h3>
-      <div align="center">
-        <img src="https://github.com/user-attachments/assets/50aa8f1e-8bb4-4b99-af53-5cd6e5829eaa" width="100%" alt="Lak-LMS">
-      </div>
-      <br />
-      A comprehensive LMS built to handle course management, secure authentication, and payments.
-      <br />
-      <br />
-      <strong>🛠 Core Stack:</strong> Next.js, Prisma, PostgreSQL (Neon), Shadcn UI.
-      <br />
-      <strong>🔑 Key Tech:</strong> Better Auth, AWS S3, Stripe (Payments), Arcjet (Security), TipTap & DnD Kit.
-    </td>
-    <td width="50%">
-      <h3 align="center">🔗 Nexus App</h3>
-      <div align="center">
-        <img src="https://github.com/user-attachments/assets/28937c84-68a8-4f67-bdee-f216d20c3af2" width="100%" alt="Nexus App">
-      </div>
-      <br />
-      A cutting-edge application focused on modern data fetching patterns and AI integration.
-      <br />
-      <br />
-      <strong>🛠 Core Stack:</strong> Next.js, Auth.js, Prisma, PostgreSQL.
-      <br />
-      <strong>🔑 Key Tech:</strong> oRPC (Type safety), Vercel AI SDK, Uploadthing, TanStack Query, Kinde Auth.
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 📊 GitHub Stats

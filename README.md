@@ -31,7 +31,7 @@ I am a Full Stack Developer with a strong passion for **Backend Systems** and **
 
 ### ⚡ Connect & Fun Facts
 
-* **Hobbies:** When I'm not configuring CI/CD pipelines, I'm watching **Anime**, playing narrative-driven PC games 🎮, or hiking 🏔️.
+* **Hobbies:** When I'm not configuring CI/CD pipelines  and coding, I'm watching **Anime**, playing narrative-driven PC games 🎮, or hiking 🏔️.
 * **Let's Connect:**
     <br/>
     <a href="https://www.linkedin.com/in/sakila-lakmal-947030385/">

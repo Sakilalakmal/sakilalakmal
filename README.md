@@ -1,3 +1,5 @@
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYyZWR1a241NWxmdGhuMm9lODd4eTBwODl6aWp1a296dDVldDkwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZ8HKcnfNWCOI/giphy.gif" width="200" />
+
 # Hi there, I'm Sakila Lakmal! 👋
 
 ### 🎓 Computer Science Student (Class of 2027)

@@ -5,7 +5,7 @@
 ### 🎓 Computer Science Student (Class of 2027)
 **Backend Developer & DevOps Enthusiast**
 
-I am a Full Stack Developer with a strong passion for **Backend Systems** and **DevOps automation**. I love building scalable applications using the MERN stack and Next.js, and I am currently deep-diving into Cloud Infrastructure with AWS.
+I am a Full Stack Developer with a strong passion for **Backend Systems** and **DevOps automation**. I love building scalable applications using the MERN stack and Next.js, and I am currently deep-diving into Cloud Infrastructure with AWS and Python , SQL , for Data engineering.
 
 ---
 

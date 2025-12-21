@@ -13,7 +13,7 @@ I am a Full Stack Developer with a strong passion for **Backend Systems** and **
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,react,nextjs,flutter,tailwind,nodejs,express,postgres,mongodb,prisma,docker,aws,jenkins,githubactions,figma,vscode,vite,postman,pnpm,linux,github" />
+    <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,react,nextjs,flutter,tailwind,nodejs,express,postgres,mongodb,prisma,docker,aws,jenkins,githubactions,figma,vscode,vite,postman,pnpm,linux,github,python" />
   </a>
 </div>
 ---

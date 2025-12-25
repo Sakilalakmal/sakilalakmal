@@ -21,11 +21,11 @@ I am a Full Stack Developer with a strong passion for **Backend Systems** and **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakilalakmal&show_icons=true&theme=dark" alt="Sakila's Github Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilalakmal&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakilalakmal&show_icons=true&theme=dark" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=sakilalakmal&theme=dark" />
 </div>
+
 
 ---
 

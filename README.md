@@ -10,8 +10,10 @@
 **Backend Developer & DevOps Enthusiast**
 
 I am a Full Stack Developer with a strong passion for **Backend Systems** and **DevOps automation**.  
-I love building scalable applications using the **MERN stack** and **Next.js**.
+I love building scalable applications using the **MERN stack** and **Next.js**, and I am currently deep-diving into **Cloud Infrastructure** with **AWS**, **Python**, and **SQL** for **Data Engineering**.
+
 ---
+
 ### 🚀 **CURRENTLY LEARNING**
 
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=darkblue)](https://www.python.org/)
@@ -19,6 +21,7 @@ I love building scalable applications using the **MERN stack** and **Next.js**.
 [![Microservices](https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=none&logoColor=white)](#)
 
 ---
+
 ### 🛠️ Languages & Tools
 
 <div align="center">
@@ -27,22 +30,6 @@ I love building scalable applications using the **MERN stack** and **Next.js**.
       src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,react,nextjs,flutter,tailwind,nodejs,express,postgres,mongodb,supabase,prisma,docker,aws,jenkins,githubactions,figma,vscode,vite,postman,pnpm,linux,github,python"
     />
   </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sakilalakmal&show_icons=true&theme=dark"
-    alt="Sakila's GitHub Stats"
-  />
-  <br/><br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilalakmal&layout=compact&theme=dark&hide=html,css"
-    alt="Top Languages"
-  />
 </div>
 
 ---

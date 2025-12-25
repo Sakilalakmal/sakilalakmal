@@ -41,7 +41,7 @@ I love building scalable applications using the **MERN stack** and **Next.js**, 
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sakila-lakmal-947030385/">
+<a href="[https://www.linkedin.com/in/sakila-lakmal-947030385/](https://www.linkedin.com/in/sakila-lakmal-a970502b7/)">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />

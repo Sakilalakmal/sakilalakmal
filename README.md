@@ -21,7 +21,7 @@ I am a Full Stack Developer with a strong passion for **Backend Systems** and **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakilalakmal&show_icons=true&theme=dark" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakilalakmal&show_icons=true&theme=radical)" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=sakilalakmal&theme=dark" />
 </div>

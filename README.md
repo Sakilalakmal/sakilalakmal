@@ -13,7 +13,13 @@ I am a Full Stack Developer with a strong passion for **Backend Systems** and **
 I love building scalable applications using the **MERN stack** and **Next.js**, and I am currently deep-diving into **Cloud Infrastructure** with **AWS**, **Python**, and **SQL** for **Data Engineering**.
 
 ---
+### 🚀 **CURRENTLY LEARNING**
 
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=darkblue)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Microservices](https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=none&logoColor=white)](#)
+
+---
 ### 🛠️ Languages & Tools
 
 <div align="center">

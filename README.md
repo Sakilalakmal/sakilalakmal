@@ -60,7 +60,7 @@ I love building scalable applications using the **MERN stack** and **Next.js**, 
 
 ### ⚡ Connect & Fun Facts
 
-- **Hobbies:** When I'm not configuring CI/CD pipelines and coding, I enjoy watching **Anime**, playing narrative-driven PC games 🎮, or hiking 🏔️.
+- **Hobbies:** 💪 Gym or hiking 🏔️.
 - **Let's Connect:**
 
 <br/>

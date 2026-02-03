@@ -55,17 +55,17 @@ I love building scalable applications using the **MERN stack** and **Next.js**, 
 
   </a>
 </div>
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Sakilalakmal&show_icons=true&theme=radical"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Sakilalakmal&show_icons=true&theme=github_dark"
     alt="Sakila Lakmal's GitHub stats"
   />
 </p>
+
 
 
 ---

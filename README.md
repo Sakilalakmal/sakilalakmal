@@ -58,6 +58,18 @@ I love building scalable applications using the **MERN stack** and **Next.js**, 
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Sakilalakmal&show_icons=true&theme=radical"
+    alt="Sakila Lakmal's GitHub stats"
+  />
+</p>
+
+
+---
+
 ### ⚡ Connect & Fun Facts
 
 - **Hobbies:** 💪 Gym or hiking 🏔️.

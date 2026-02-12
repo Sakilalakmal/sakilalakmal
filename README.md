@@ -18,7 +18,7 @@ I love building scalable applications using the **MERN stack** and **Next.js**, 
 
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=darkblue)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-005CDB?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Microservices](https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=none&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Excel-8B5CF6?style=for-the-badge&logo=none&logoColor=white)](#)
 
 ---
 
